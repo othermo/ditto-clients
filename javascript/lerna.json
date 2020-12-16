@@ -11,8 +11,7 @@
     },
     "version": {
       "allowBranch": [
-        "master",
-        "feature/*"
+        "othermo-deploy"
       ]
     }
   },
